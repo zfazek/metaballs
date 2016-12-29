@@ -1,2 +1,2 @@
 # metaballs
-Interactive Metaballs simuation in the browser
+Interactive Metaballs simulation in the browser
